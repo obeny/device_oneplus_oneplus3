@@ -24,7 +24,7 @@ $(call inherit-product, device/oneplus/oneplus3/device.mk)
 $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
 # Vendor security patch level
-VENDOR_SECURITY_PATCH := 2019-04-01
+VENDOR_SECURITY_PATCH := 2019-07-01
 
 PRODUCT_NAME := rr_oneplus3
 PRODUCT_DEVICE := oneplus3
